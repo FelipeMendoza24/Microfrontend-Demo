@@ -1,0 +1,20 @@
+{
+  "name": "barchart",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "echarts": "^5.5.1",
+    "html-webpack-plugin": "^5.6.3",
+    "nodemon": "^3.1.7",
+    "webpack": "^5.95.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.2"
+  },
+  "description": ""
+}
